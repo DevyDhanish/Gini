@@ -1,9 +1,9 @@
 #include <iostream>
-#include "includes\art.h"
-#include "includes\colors.h"
+#include "../includes/program.h"
 
 int main(){
-    std::cout << red << gini_art << reset_color;
-    std::cout << "By DevyDhanish";
+    Program program;
+
+    std::cout << program.bootScreen();
     return 0;
 }
