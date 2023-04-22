@@ -11,7 +11,10 @@ const std::string gini_art = R"(
   / __ `/ / __ \/ / 
  / /_/ / / / / / /  
  \__, /_/_/ /_/_/   
-/____/              
+/____/    
+                     By @DevyDhanish
+
+
 )";
 
 #endif
